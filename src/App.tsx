@@ -27,6 +27,8 @@ function App() {
         ))}
       </ul>
       <div>
+          Testing update to github...
+        <br />
         🥳 App successfully hosted. Try creating a new todo.
         <br />
         <a href="https://docs.amplify.aws/react/start/quickstart/#make-frontend-updates">
